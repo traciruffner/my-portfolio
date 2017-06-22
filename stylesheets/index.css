@@ -70,29 +70,43 @@ iframe{
     
 }
 
-.contact__git{
+.contact-git{
     color: white;
     display: inline-block;
     float: right;
     margin-top: 1em;
     margin-right: 1em;
-    background-color: #1d560e;
+    background-color: green;
+    height: 2em;
+    width: 5em;
+    padding:.1em;
    
+     
 }
 
-.contact__li{
+.contact-li{
     color: white;
     display: inline-block;
     float: right;
     margin-top: 1em;
     margin-right: 1em;
+    margin-bottom: 1em;
     background-color: #093987;
+    height: 2em;
+    width: 5em;
+    padding:.1em;
 }
+
+
 
 .share{
     display: inline-block;
     float: left;
+    height: 2em;
+    width: 2em;
+    margin-top: 1em;
 }
+
 
 
 
